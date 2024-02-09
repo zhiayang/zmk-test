@@ -22,3 +22,7 @@ include:
     shield: sofle_left
   - board: mikoto_520
     shield: sofle_right
+  - board: mikoto@7.1.0
+    shield: lily58_left
+  - board: mikoto@7.1.0
+    shield: lily58_right
